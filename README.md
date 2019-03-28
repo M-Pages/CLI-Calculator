@@ -1,8 +1,8 @@
-###### CLI-Calculator
+# CLI-Calculator
 
-####This is a professional calculator written in C# and with command-line-interface
+## This is a professional calculator written in C# and with command-line-interface
 
-##Description
+### Description
 
 * This calculator takes ***infinie*** inputs of numbers and operators 
 
