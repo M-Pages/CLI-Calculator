@@ -1,0 +1,14 @@
+H:\Github\Calculator\bin\release\netcoreapp2.2\win10-x64\hostpolicy.dll
+H:\Github\Calculator\bin\release\netcoreapp2.2\win10-x64\hostfxr.dll
+H:\Github\Calculator\bin\release\netcoreapp2.2\win10-x64\Calculator.exe
+H:\Github\Calculator\bin\release\netcoreapp2.2\win10-x64\Calculator.deps.json
+H:\Github\Calculator\bin\release\netcoreapp2.2\win10-x64\Calculator.runtimeconfig.json
+H:\Github\Calculator\bin\release\netcoreapp2.2\win10-x64\Calculator.runtimeconfig.dev.json
+H:\Github\Calculator\bin\release\netcoreapp2.2\win10-x64\Calculator.dll
+H:\Github\Calculator\bin\release\netcoreapp2.2\win10-x64\Calculator.pdb
+H:\Github\Calculator\obj\release\netcoreapp2.2\win10-x64\Calculator.csprojAssemblyReference.cache
+H:\Github\Calculator\obj\release\netcoreapp2.2\win10-x64\Calculator.csproj.CoreCompileInputs.cache
+H:\Github\Calculator\obj\release\netcoreapp2.2\win10-x64\Calculator.AssemblyInfoInputs.cache
+H:\Github\Calculator\obj\release\netcoreapp2.2\win10-x64\Calculator.AssemblyInfo.cs
+H:\Github\Calculator\obj\release\netcoreapp2.2\win10-x64\Calculator.dll
+H:\Github\Calculator\obj\release\netcoreapp2.2\win10-x64\Calculator.pdb
