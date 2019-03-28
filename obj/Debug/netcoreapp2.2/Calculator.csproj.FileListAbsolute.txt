@@ -1,0 +1,11 @@
+C:\Users\ALI\Desktop\Calculator\bin\Debug\netcoreapp2.2\Calculator.deps.json
+C:\Users\ALI\Desktop\Calculator\bin\Debug\netcoreapp2.2\Calculator.runtimeconfig.json
+C:\Users\ALI\Desktop\Calculator\bin\Debug\netcoreapp2.2\Calculator.runtimeconfig.dev.json
+C:\Users\ALI\Desktop\Calculator\bin\Debug\netcoreapp2.2\Calculator.dll
+C:\Users\ALI\Desktop\Calculator\bin\Debug\netcoreapp2.2\Calculator.pdb
+C:\Users\ALI\Desktop\Calculator\obj\Debug\netcoreapp2.2\Calculator.csprojAssemblyReference.cache
+C:\Users\ALI\Desktop\Calculator\obj\Debug\netcoreapp2.2\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\ALI\Desktop\Calculator\obj\Debug\netcoreapp2.2\Calculator.AssemblyInfoInputs.cache
+C:\Users\ALI\Desktop\Calculator\obj\Debug\netcoreapp2.2\Calculator.AssemblyInfo.cs
+C:\Users\ALI\Desktop\Calculator\obj\Debug\netcoreapp2.2\Calculator.dll
+C:\Users\ALI\Desktop\Calculator\obj\Debug\netcoreapp2.2\Calculator.pdb
